@@ -26,3 +26,6 @@ public class reverseArray{
         printArray(arr, 6);
     }
 }
+
+
+//Time Complexity : O(n);
